@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Homajon Aka HomajonB</h1>
 <h3 align="center">A passionate Embedded Software Developer!</h3>
+![Nv2](https://github.com/HomajonB/HomajonB/assets/113979364/53bae436-72bf-4d19-921b-0f876bdddcc1)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=homajonb" alt="homajonb" /></a> </p>
 
