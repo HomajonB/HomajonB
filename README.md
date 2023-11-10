@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=homajonb&show_icons=true&locale=en" alt="homajonb" /></p>
 
-![image2](https://github.com/HomajonB/HomajonB/assets/113979364/cfe13063-af33-4948-9581-ff2d6ac9bcf2)
+
